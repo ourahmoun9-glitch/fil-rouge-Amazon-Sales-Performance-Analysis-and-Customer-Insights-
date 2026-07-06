@@ -142,8 +142,3 @@ All pages include interactive slicers (Payment Method, Country, Year, Order Stat
 - Explore the **February revenue dip** for seasonal marketing opportunities, and reinforce what drives the **August peak**
 - Delivery/cancellation and payment method show no statistically significant link to order outcomes — operational issues (e.g., stock, logistics) are more likely drivers of cancellations than order value or payment choice
 
----
-
-## 👤 Author
-
-Capstone project completed as part of the **Data Analyst training program** at **Simplon Maghreb**, in partnership with an **Amazon**-themed business case.
